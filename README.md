@@ -1,1 +1,1 @@
-# aws-no-sql-database
+# aws-integration-no-sql-database
