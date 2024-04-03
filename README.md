@@ -9,5 +9,7 @@ Endpoints:
   
 Functions:
   getProductsList: aws-seeder-dev-getProductsList 
+  
   getProductsById: aws-seeder-dev-getProductsById
+  
   createProduct: aws-seeder-dev-createProduct
